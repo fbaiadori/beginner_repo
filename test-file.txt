@@ -1,1 +1,3 @@
 This file is simply a test of the "Create new file" tool on github.
+
+Edit: Testing on github's version control function.
