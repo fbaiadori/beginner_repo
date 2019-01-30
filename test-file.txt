@@ -1,5 +1,6 @@
 This file is simply a test of the "Create new file" tool on github.
 No longer located on branch 1.
+
 Currently located on branch 2.
 
 Edit: Testing on github's version control function.
